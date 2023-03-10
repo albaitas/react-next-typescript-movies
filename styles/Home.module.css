@@ -1,0 +1,19 @@
+.hero {
+  text-align: center;
+  margin: 0 auto;
+  position: relative;
+}
+.hero__title {
+  font-weight: bold;
+  font-size: 2rem;
+  color: white;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  top: 50%;
+}
+.img {
+  max-width: 100%;
+  height: auto;
+}

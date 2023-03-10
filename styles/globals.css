@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@600&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #16140c !important;
+}
+
+.card {
+  margin-bottom: 20px;
+  text-align: center !important;
+  border-radius: 0% !important;
+}
+.card_b {
+  font-size: small;
+}
+
+.page_wrapper {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
+
+a {
+  text-decoration: none !important;
+}
